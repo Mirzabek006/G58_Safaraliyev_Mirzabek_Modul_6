@@ -1,0 +1,29 @@
+1.Database nima -Bu ma'lumotlar bazasi mal'umotlarning standartlashtirilagan elektron tuzilmasi
+1970 -yilarda yaratiladi shundan beri ishlatilib kelinadi bu katta kamponiyalarda ishlatiladi.Mizol uxhun
+Amazon Facbookni olishimiz yana u yerda yoshi  ir nechata narlasar so'raladi.
+2.RDBMS nima-Relational Database Managmet System yani malumotlarning tartibli  tizimli to'plamdir.
+Yani bu malumotlarni foreign keyda saqlaydi va bunda ma'lumotlarni saqlash ancha xavfsizdir yani bu ma'lumotlarni jadval
+ko'rinishda saqlaydi.
+3.RDBMS bilan DBMS ning nima farqi bor.
+RDBMS->(Reletional Database Managment System)
+DBMS->(Database Managment Systems)
+ Ikkilasining Biri birining farqi shundaki  ;RDBMS da ma'lumotlarni foreign key qiymat ko'rinishda saqlaydi
+ DBMS da to'g'ridan to'g'ri saqlaydi va xavfsizlik jihatdan RDMS ustun tuaradi.
+ RDBS da kodalr yoziladi MySql SQL PostgreSQL da yozish mumkin.
+ DBMS da Microsoft shunga o'xshasharda ishlatiladi.
+ 4.SQL nima ?
+ SQL bu ma'lumotlar bazasida ma'lumotlarni elektron tizimda saqlab turadi va bizga kerakli ma'lumotlarni yetkazib beradi.
+
+5.primary key bilan foriegn key ni nima va bir biridan farqi nimada?
+Primary Key Ma'lumotlarni id to'g'irlab generatsiya qilib beradi.Biga kiritaytgan ma'lumotlarimizga qarab avtomatik
+generatsiya qilib to'g'irlab  beradi.
+Foriegn Key bu ma'lumotlarni delete or update or insert qilishda avtomatik kiritib beradi  id yoki nomini topib avtmatik
+ravishda bizga tenglashtirib yordam beradi.
+
+Xuloss:Ikkilasining bir birida farqi yani primary key kiritayotgan ma'luomotlarga id kiritishda yordam beradi.
+foriegn key asi aksincha ularni o'zgartirishga yordam beradi.
+6.PL/ pgSQL nimada farqi bor.
+7.Assert statment nima va nima uchun ishlatiladi?
+8.Trigger nima?
+Trigger bu maluumotlarning tablarida logalr bilan ishlabchi vosita sanaladi misol uchun Loglar bilan ishlay olsihinigiz
+OLD NEW methodlaridan foydalaniladi
